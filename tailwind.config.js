@@ -1,0 +1,1 @@
+/** @type {import('tailwindcss').Config} */ export default {darkMode:'class',content:['./index.html','./src/**/*.{ts,tsx}'],theme:{extend:{colors:{navy:{950:'#050d19',900:'#071425',800:'#0d2138'},cyan:{450:'#19c9d4'}},boxShadow:{glow:'0 0 40px rgba(25,201,212,.12)'}}},plugins:[]};
